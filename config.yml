@@ -46,11 +46,35 @@ tagline: >-
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
-      icon: "fa-solid fa-rss"
-      text: "Website"
+      icon: "fa-solid fa-heart"
+      text: "hlavní stránka LLC"
       url: "https://www.loveslorecourt.cz/"
-      alt: "Love's Lore Court Website"
-      title: "Love's Lore CourtWebsite"
+      alt: "Love's Lore Court Hlavní stránka"
+      title: "Love's Lore Court Hlavní stránka"
+      target: "_blank"
+      
+   - link:
+      icon: "fa-solid fa-boxes-stacked"
+      text: "Mystery boxy"
+      url: "https://www.loveslorecourt.cz/box"
+      alt: "Love's Lore Court Mystery box"
+      title: "Love's Lore Court Mystery box"
+      target: "_blank"
+
+    - link:
+      icon: "fa-solid fa-fire"
+      text: "Rande s knihou"
+      url: "https://www.loveslorecourt.cz/blind-date"
+      alt: "Love's Lore Court Rande s knihou"
+      title: "Love's Lore Court Rande s knihou"
+      target: "_blank"
+
+    - link:
+      icon: "fa-solid fa-book-bookmark"
+      text: "Záložky"
+      url: "https://www.loveslorecourt.cz/zalozky"
+      alt: "Love's Lore Court Blind Záložky"
+      title: "Love's Lore Court Blind Záložky"
       target: "_blank"
 
 # List of social media links
