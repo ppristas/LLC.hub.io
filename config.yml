@@ -13,13 +13,13 @@ lang: "en"
 plugins:
   # Automatically fetch Medium follower count
   - MediumFollowersCountPlugin:
-      username: zhgchgli
+      username: ppristas
   # Automatically fetch Github repo star count
   - GithubRepoStarsCountPlugin:
-      - ZhgChgLi/ZMarkupParser
-      - ZhgChgLi/ZReviewTender
-      - ZhgChgLi/ZMediumToMarkdown
-      - ZhgChgLi/linkyee
+      - ppristas/ZMarkupParser
+      - ppristas/ZReviewTender
+      - ppristas/ZMediumToMarkdown
+      - ppristas/linkyee
 
 # Google Analytics tracking id
 google_analytics_id:
