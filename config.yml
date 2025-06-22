@@ -53,7 +53,7 @@ links:
       title: "Love's Lore Court Hlavní stránka"
       target: "_blank"
       
-   - link:
+  - link:
       icon: "fa-solid fa-boxes-stacked"
       text: "Mystery boxy"
       url: "https://www.loveslorecourt.cz/box"
@@ -61,7 +61,7 @@ links:
       title: "Love's Lore Court Mystery box"
       target: "_blank"
 
-    - link:
+  - link:
       icon: "fa-solid fa-fire"
       text: "Rande s knihou"
       url: "https://www.loveslorecourt.cz/blind-date"
@@ -69,7 +69,7 @@ links:
       title: "Love's Lore Court Rande s knihou"
       target: "_blank"
 
-    - link:
+  - link:
       icon: "fa-solid fa-book-bookmark"
       text: "Záložky"
       url: "https://www.loveslorecourt.cz/zalozky"
