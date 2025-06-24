@@ -54,7 +54,7 @@ links:
       target: "_blank"
       
   - link:
-      icon: "fa-solid fa-boxes-stacked"
+      icon: "custom-icon mystery-box"
       text: "Mystery boxy"
       url: "https://www.loveslorecourt.cz/box"
       alt: "Love's Lore Court Mystery box"
@@ -70,9 +70,9 @@ links:
       target: "_blank"
 
   - link:
-      icon: "fa-solid fa-book-bookmark"
-      text: "Záložky"
-      url: "https://www.loveslorecourt.cz/zalozky"
+      icon: "custom-icon knihomol"
+      text: "Knihomolské doplňky"
+      url: "https://www.loveslorecourt.cz/knizni-doplnky"
       alt: "Love's Lore Court Blind Záložky"
       title: "Love's Lore Court Blind Záložky"
       target: "_blank"
