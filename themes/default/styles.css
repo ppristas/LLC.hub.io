@@ -73,7 +73,7 @@ a {
 }
 
 .link-button:hover {
-  background-color: #e0e0e0;
+  background-color: #1A2638;
   transform: scale(1.05);
 }
 
@@ -118,10 +118,18 @@ a {
   background-repeat: no-repeat;
   background-position: center;
   display: inline-block;
-  width: 32px;
-  height: 32px;
+  width: 48px;
+  height: 48px;
   text-indent: -9999px; /* hides the Font Awesome icon text */
 }
+.custom-knihomol {
+  background-image: url('./images/knihomol.png');
+}
+
+.custom-mystery-box {
+  background-image: url('./images/mysteery-box.png');
+}
+
 
 .icon-button:hover {
   transform: scale(1.1);
@@ -134,7 +142,7 @@ a {
 
 .link-button-text {
   font-size: 14px;
-  color: #000;
+  color: #fff;
 }
 
 .copyright {
