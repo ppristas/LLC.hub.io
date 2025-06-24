@@ -118,8 +118,8 @@ a {
   background-repeat: no-repeat;
   background-position: center;
   display: inline-block;
-  width: 48px;
-  height: 48px;
+  width: 64px;
+  height: 64px;
   text-indent: -9999px; /* hides the Font Awesome icon text */
 }
 
@@ -129,6 +129,10 @@ i.custom-icon.custom-knihomol {
 
 i.custom-icon.custom-mystery-box {
   background-image: url('./images/mystery-box.png');
+}
+
+i.custom-icon.custom-main-page-logo {
+  background-image: url('./images/logo.png');
 }
 
 
