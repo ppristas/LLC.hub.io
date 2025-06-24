@@ -112,6 +112,17 @@ a {
   font-size: 24px;
 }
 
+.link-button i.custom-icon {
+  background-image: url('./images/blind-date.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  text-indent: -9999px; /* hides the Font Awesome icon text */
+}
+
 .icon-button:hover {
   transform: scale(1.1);
   color: #666;
