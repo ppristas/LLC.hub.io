@@ -122,12 +122,13 @@ a {
   height: 48px;
   text-indent: -9999px; /* hides the Font Awesome icon text */
 }
-.custom-knihomol {
+
+i.custom-icon.custom-knihomol {
   background-image: url('./images/knihomol.png');
 }
 
-.custom-mystery-box {
-  background-image: url('./images/mysteery-box.png');
+i.custom-icon.custom-mystery-box {
+  background-image: url('./images/mystery-box.png');
 }
 
 
