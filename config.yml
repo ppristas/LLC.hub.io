@@ -54,7 +54,7 @@ links:
       target: "_blank"
       
   - link:
-      icon: "custom-icon mystery-box"
+      icon: "custom-icon custom-mystery-box"
       text: "Mystery boxy"
       url: "https://www.loveslorecourt.cz/box"
       alt: "Love's Lore Court Mystery box"
@@ -70,11 +70,11 @@ links:
       target: "_blank"
 
   - link:
-      icon: "custom-icon knihomol"
+      icon: "custom-icon custom-knihomol"
       text: "Knihomolské doplňky"
       url: "https://www.loveslorecourt.cz/knizni-doplnky"
-      alt: "Love's Lore Court Blind Záložky"
-      title: "Love's Lore Court Blind Záložky"
+      alt: "Love's Lore Court Knihomolské doplňky"
+      title: "Love's Lore Court Knihomolské doplňky"
       target: "_blank"
 
 # List of social media links
